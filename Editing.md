@@ -32,7 +32,8 @@
 Изображения в Markdown оформляются по принципу:
 
 ![текст](путь к изображению)
-![This is a image](peers.PNG)
+
+![This is a image](sip show peers.PNG)
 
 ## Работа с таблицами
 
